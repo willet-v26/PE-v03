@@ -5,7 +5,7 @@
 ![preview](./images-view/05.png)
 
 ### Project:
-www.old.p-evo.com
+http://old.p-evo.com/
 
 ### General info:
 2018 | Architectural portfolio
